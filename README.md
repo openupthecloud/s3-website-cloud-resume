@@ -23,7 +23,7 @@
 3. `#!/bin/sh` => Add the "shebang" to the top of a shell script 
 4. `echo "hello world"` => Add scripts to the file !
 
-### Useful Links: 
+### Useful Links: 
 
 - [Cloud Resume Challenge](https://cloudresumechallenge.dev/docs/the-challenge/aws/)
 - [AWS CLI - S3](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3/index.html)
